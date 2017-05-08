@@ -1,0 +1,563 @@
+{
+    "calibration_settings": {
+        "adjust_laser": {
+            "value": true
+        }, 
+        "camera_height": {
+            "max_value": 10000, 
+            "min_value": 1, 
+            "value": 960
+        }, 
+        "camera_hflip": {
+            "value": true
+        }, 
+        "camera_matrix": {
+            "value": [
+                [
+                    1430.0, 
+                    0.0, 
+                    480.0
+                ], 
+                [
+                    0.0, 
+                    1430.0, 
+                    620.0
+                ], 
+                [
+                    0.0, 
+                    0.0, 
+                    1.0
+                ]
+            ]
+        }, 
+        "camera_rotate": {
+            "value": true
+        }, 
+        "camera_vflip": {
+            "value": false
+        }, 
+        "camera_width": {
+            "max_value": 10000, 
+            "min_value": 1, 
+            "value": 1280
+        }, 
+        "distance_left": {
+            "value": 0.0
+        }, 
+        "distance_right": {
+            "value": 0.0
+        }, 
+        "distortion_vector": {
+            "value": [
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "estimated_size": {
+            "value": [
+                -5.0, 
+                90.0, 
+                320.0
+            ]
+        }, 
+        "laser_triangulation_hash": {
+            "value": ""
+        }, 
+        "normal_left": {
+            "value": [
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "normal_right": {
+            "value": [
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "pattern_columns": {
+            "max_value": 50, 
+            "min_value": 2, 
+            "value": 11
+        }, 
+        "pattern_origin_distance": {
+            "min_value": 0.0, 
+            "value": 0.0
+        }, 
+        "pattern_rows": {
+            "max_value": 50, 
+            "min_value": 2, 
+            "value": 6
+        }, 
+        "pattern_square_width": {
+            "min_value": 1.0, 
+            "value": 13.0
+        }, 
+        "platform_extrinsics_hash": {
+            "value": ""
+        }, 
+        "rotation_matrix": {
+            "value": [
+                [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            ]
+        }, 
+        "translation_vector": {
+            "value": [
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "use_distortion": {
+            "value": false
+        }
+    }, 
+    "machine_settings": {
+        "machine_depth": {
+            "value": 200
+        }, 
+        "machine_diameter": {
+            "value": 200
+        }, 
+        "machine_height": {
+            "value": 200
+        }, 
+        "machine_model_path": {
+            "value": "C:\\Program Files\\Horus\\res\\meshes\\ciclop_platform.stl"
+        }, 
+        "machine_shape": {
+            "value": "Circular"
+        }, 
+        "machine_width": {
+            "value": 200
+        }
+    }, 
+    "preferences": {
+        "basic_mode": {
+            "value": false
+        }, 
+        "baud_rate": {
+            "value": 115200
+        }, 
+        "board": {
+            "value": "BT ATmega328"
+        }, 
+        "camera_id": {
+            "value": "0"
+        }, 
+        "check_for_updates": {
+            "value": true
+        }, 
+        "flush_darwin": {
+            "value": [
+                4, 
+                3, 
+                4
+            ]
+        }, 
+        "flush_linux": {
+            "value": [
+                3, 
+                2, 
+                3
+            ]
+        }, 
+        "flush_stream_darwin": {
+            "value": [
+                0, 
+                2, 
+                0
+            ]
+        }, 
+        "flush_stream_linux": {
+            "value": [
+                0, 
+                2, 
+                0
+            ]
+        }, 
+        "flush_stream_windows": {
+            "value": [
+                0, 
+                2, 
+                0
+            ]
+        }, 
+        "flush_windows": {
+            "value": [
+                4, 
+                3, 
+                4
+            ]
+        }, 
+        "invert_motor": {
+            "value": false
+        }, 
+        "language": {
+            "value": "English"
+        }, 
+        "last_clear_log_date": {
+            "value": "2017-05-08 04:35:53"
+        }, 
+        "last_file": {
+            "value": ""
+        }, 
+        "last_files": {
+            "value": []
+        }, 
+        "last_profile": {
+            "value": ""
+        }, 
+        "model_color": {
+            "value": "888888"
+        }, 
+        "point_size": {
+            "max_value": 4, 
+            "min_value": 1, 
+            "value": 2
+        }, 
+        "serial_name": {
+            "value": "COM1"
+        }, 
+        "show_welcome": {
+            "value": true
+        }, 
+        "view_adjustment_panel": {
+            "value": true
+        }, 
+        "view_adjustment_video": {
+            "value": true
+        }, 
+        "view_calibration_panel": {
+            "value": true
+        }, 
+        "view_calibration_video": {
+            "value": true
+        }, 
+        "view_control_panel": {
+            "value": true
+        }, 
+        "view_control_video": {
+            "value": true
+        }, 
+        "view_mode_advanced": {
+            "value": false
+        }, 
+        "view_scanning_panel": {
+            "value": false
+        }, 
+        "view_scanning_scene": {
+            "value": true
+        }, 
+        "view_scanning_video": {
+            "value": false
+        }, 
+        "workbench": {
+            "value": "scanning"
+        }
+    }, 
+    "profile_settings": {
+        "autocheck_button": {
+            "value": ""
+        }, 
+        "blur_enable_calibration": {
+            "value": true
+        }, 
+        "blur_enable_scanning": {
+            "value": true
+        }, 
+        "blur_value_calibration": {
+            "max_value": 10, 
+            "min_value": 0, 
+            "value": 2
+        }, 
+        "blur_value_scanning": {
+            "max_value": 10, 
+            "min_value": 0, 
+            "value": 2
+        }, 
+        "brightness_control": {
+            "max_value": 255, 
+            "min_value": 0, 
+            "value": 128
+        }, 
+        "brightness_laser_calibration": {
+            "max_value": 255, 
+            "min_value": 0, 
+            "value": 0
+        }, 
+        "brightness_laser_scanning": {
+            "max_value": 255, 
+            "min_value": 0, 
+            "value": 0
+        }, 
+        "brightness_pattern_calibration": {
+            "max_value": 255, 
+            "min_value": 0, 
+            "value": 128
+        }, 
+        "brightness_texture_scanning": {
+            "max_value": 255, 
+            "min_value": 0, 
+            "value": 128
+        }, 
+        "capture_mode_calibration": {
+            "value": "Pattern"
+        }, 
+        "capture_mode_scanning": {
+            "value": "Texture"
+        }, 
+        "capture_texture": {
+            "value": true
+        }, 
+        "contrast_control": {
+            "max_value": 255, 
+            "min_value": 0, 
+            "value": 32
+        }, 
+        "contrast_laser_calibration": {
+            "max_value": 255, 
+            "min_value": 0, 
+            "value": 100
+        }, 
+        "contrast_laser_scanning": {
+            "max_value": 255, 
+            "min_value": 0, 
+            "value": 100
+        }, 
+        "contrast_pattern_calibration": {
+            "max_value": 255, 
+            "min_value": 0, 
+            "value": 32
+        }, 
+        "contrast_texture_scanning": {
+            "max_value": 255, 
+            "min_value": 0, 
+            "value": 32
+        }, 
+        "current_panel_adjustment": {
+            "value": "scan_capture"
+        }, 
+        "current_panel_calibration": {
+            "value": "pattern_settings"
+        }, 
+        "current_panel_control": {
+            "value": "camera_control"
+        }, 
+        "current_panel_scanning": {
+            "value": "scan_parameters"
+        }, 
+        "current_video_mode_adjustment": {
+            "value": "Pattern"
+        }, 
+        "enable_button": {
+            "value": ""
+        }, 
+        "exposure_control": {
+            "max_value": 64, 
+            "min_value": 1, 
+            "value": 16
+        }, 
+        "exposure_laser_calibration": {
+            "max_value": 64, 
+            "min_value": 1, 
+            "value": 8
+        }, 
+        "exposure_laser_scanning": {
+            "max_value": 64, 
+            "min_value": 1, 
+            "value": 8
+        }, 
+        "exposure_pattern_calibration": {
+            "max_value": 64, 
+            "min_value": 1, 
+            "value": 16
+        }, 
+        "exposure_texture_scanning": {
+            "max_value": 64, 
+            "min_value": 1, 
+            "value": 16
+        }, 
+        "framerate": {
+            "value": 30
+        }, 
+        "gcode_gui": {
+            "value": ""
+        }, 
+        "ldr_value": {
+            "value": ""
+        }, 
+        "left_button": {
+            "value": ""
+        }, 
+        "luminosity": {
+            "value": "Medium"
+        }, 
+        "motor_acceleration_control": {
+            "max_value": 1000.0, 
+            "min_value": 1.0, 
+            "value": 200.0
+        }, 
+        "motor_acceleration_scanning": {
+            "max_value": 1000.0, 
+            "min_value": 1.0, 
+            "value": 200.0
+        }, 
+        "motor_speed_control": {
+            "max_value": 1000.0, 
+            "min_value": 1.0, 
+            "value": 200.0
+        }, 
+        "motor_speed_scanning": {
+            "max_value": 1000.0, 
+            "min_value": 1.0, 
+            "value": 200.0
+        }, 
+        "motor_step_control": {
+            "value": 90.0
+        }, 
+        "motor_step_scanning": {
+            "value": 0.45
+        }, 
+        "move_button": {
+            "value": ""
+        }, 
+        "point_cloud_color": {
+            "value": "AAAAAA"
+        }, 
+        "red_channel_calibration": {
+            "value": "R (RGB)"
+        }, 
+        "red_channel_scanning": {
+            "value": "R (RGB)"
+        }, 
+        "refinement_calibration": {
+            "value": "RANSAC"
+        }, 
+        "refinement_scanning": {
+            "value": "SGF"
+        }, 
+        "remove_background_calibration": {
+            "value": true
+        }, 
+        "remove_background_scanning": {
+            "value": true
+        }, 
+        "reset_origin_button": {
+            "value": ""
+        }, 
+        "right_button": {
+            "value": ""
+        }, 
+        "roi_diameter": {
+            "max_value": 250, 
+            "min_value": 0, 
+            "value": 200
+        }, 
+        "roi_height": {
+            "max_value": 250, 
+            "min_value": 0, 
+            "value": 200
+        }, 
+        "saturation_control": {
+            "max_value": 255, 
+            "min_value": 0, 
+            "value": 32
+        }, 
+        "saturation_laser_calibration": {
+            "max_value": 255, 
+            "min_value": 0, 
+            "value": 100
+        }, 
+        "saturation_laser_scanning": {
+            "max_value": 255, 
+            "min_value": 0, 
+            "value": 100
+        }, 
+        "saturation_pattern_calibration": {
+            "max_value": 255, 
+            "min_value": 0, 
+            "value": 32
+        }, 
+        "saturation_texture_scanning": {
+            "max_value": 255, 
+            "min_value": 0, 
+            "value": 50
+        }, 
+        "save_image_button": {
+            "value": ""
+        }, 
+        "scan_sleep": {
+            "max_value": 1000.0, 
+            "min_value": 0.0, 
+            "value": 50.0
+        }, 
+        "set_resolution_button": {
+            "value": ""
+        }, 
+        "show_center": {
+            "value": true
+        }, 
+        "threshold_enable_calibration": {
+            "value": true
+        }, 
+        "threshold_enable_scanning": {
+            "value": true
+        }, 
+        "threshold_value_calibration": {
+            "max_value": 255, 
+            "min_value": 0, 
+            "value": 30
+        }, 
+        "threshold_value_scanning": {
+            "max_value": 255, 
+            "min_value": 0, 
+            "value": 50
+        }, 
+        "use_laser": {
+            "value": "Both"
+        }, 
+        "use_roi": {
+            "value": false
+        }, 
+        "video_scanning": {
+            "value": "Texture"
+        }, 
+        "window_enable_calibration": {
+            "value": true
+        }, 
+        "window_enable_scanning": {
+            "value": true
+        }, 
+        "window_value_calibration": {
+            "max_value": 30, 
+            "min_value": 0, 
+            "value": 5
+        }, 
+        "window_value_scanning": {
+            "max_value": 30, 
+            "min_value": 0, 
+            "value": 8
+        }
+    }, 
+    "settings_version": 1
+}
