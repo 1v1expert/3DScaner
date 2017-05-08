@@ -1,6 +1,9 @@
 # Horus
 
-Project Horus from Vlad
+Update Project Horus from Vlad:
+
+*** Added the construction of normals and mesh
+Removed the driver connection and camera test
 
 [![R&D](https://img.shields.io/badge/-R%26D-brightgreen.svg)](https://github.com/bqlabs/horus)
 [![License](http://img.shields.io/:license-gpl-blue.svg)](http://opensource.org/licenses/GPL-2.0)

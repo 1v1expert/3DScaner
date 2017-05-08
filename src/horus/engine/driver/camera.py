@@ -187,7 +187,7 @@ class Camera(object):
             if self._updating:
                 return self._last_image
             else:
-                self._reading = True
+                '''self._reading = True
                 if auto:
                     b, e = 0, 0
                     while e - b < (0.030):
@@ -212,10 +212,10 @@ class Camera(object):
                     self._success()
                     image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
                     self._last_image = image
-                    return image
-                else:
+                    '''return image
+                '''else:
                     self._fail()
-                    return None
+                    return None'''
         else:
             return None
 
