@@ -14,7 +14,7 @@ This project has been developed in [Python](https://www.python.org/) language an
 
 ## Installation
 
-#### Supported
+#### Supportedd
 
 ###### Current version: 0.2rc1
 
