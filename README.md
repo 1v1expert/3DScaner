@@ -1,4 +1,4 @@
-# Horus
+# 3DScaner _ 3DQuality
 
 Project Horus from Vlad @ [B I T C H M A N N](https://vk.com/1v1expert)
 
