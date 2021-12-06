@@ -1,7 +1,5 @@
 # 3DScaner _ 3DQuality
 
-Project Horus from Vlad @ [B I T C H M A N N](https://vk.com/1v1expert)
-
 [![R&D](https://img.shields.io/badge/-R%26D-brightgreen.svg)](https://github.com/bqlabs/horus)
 [![License](http://img.shields.io/:license-gpl-blue.svg)](http://opensource.org/licenses/GPL-2.0)
 [![Documentation Status](https://readthedocs.org/projects/horus/badge/?version=release-0.2)](http://horus.readthedocs.io/en/release-0.2/?badge=release-0.2)
